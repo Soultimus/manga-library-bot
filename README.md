@@ -1,5 +1,8 @@
 # Manga Library Bot
 ## A Discord bot that can manage manga to read
+### Disclaimer
+**This project is built for personal use and demonstrates my understanding of API interactions. It is not intended for commercial use, and I do not claim ownership of the data used from the API. It does not involve any redistribution or modification of content.**
+
 ### Overview
 This Discord bot provides real-time notifications for manga series updates using the MangaDex API. Users can subscribe to their favorite manga series and receive alerts when new chapters are released.
 
